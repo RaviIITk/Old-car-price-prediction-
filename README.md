@@ -17,4 +17,4 @@ create dummy data (Model Fitting)(Which includes Train_test_split method for cro
 
 Testing
 
-Please read this project and give suggestions, so I can Learn hoe to improve this project in the batter way
+Please read this project and give suggestions, so I can Learn hoe to improve this project in the better way.
